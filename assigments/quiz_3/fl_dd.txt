@@ -1,0 +1,19 @@
+patient_id - Anonymous patient identifier
+CD8_LAG3 - Proportion of CD8+LAG3+ T-cells observed in CD20+ regions
+CD8_LAG3_PD1 - Proportion of CD8+LAG3+PD1+ T-cells observed in CD20+ regions
+FLIPIgrp - Follicular Lymphoma International Prognostic Index category
+FLIPI - Follicular Lymphoma International Prognostic Index score
+M7Fgrp - m7-FLIPI category
+M7FLIPI - m7-FLIP score
+DIAG - Pathological diagnosis of stage
+AGE - Age at time of diagnosis
+SEX - Bilogical sex
+time_to_transformation - Time from diagnosis to histological transformation
+transformation - Whether a transformation event was (1) or was not (0) observed during observation period
+CD8_LAG3grp - Categorised CD8_LAG3 based on 66% quantile
+ 
+
+ 
+  
+ 
+
