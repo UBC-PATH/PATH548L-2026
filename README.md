@@ -2,6 +2,19 @@
 
 Welcome to the software page for UBC Pathology 548L.
 
+## Calendar
+
+|Date|Content|Presenter|
+|----|-------|---------|
+|May21|Lecture|Helene|
+|May 25|Lecture|Helene|
+|June 2|Presentations|Michelle, Adam|
+|June 11|Presentations|Tisha, Fatimeh|
+|June 16|Presentations|Chris, Gaea|
+|June 18|Presentations|Nina, Vivian|
+|June 25|Presentations|Valery|
+
+
 ## Software
 
 We will cover the use of two different software packages for statistical analysis in this course.
