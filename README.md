@@ -9,7 +9,7 @@ Welcome to the software page for UBC Pathology 548L.
 |May21|Lecture|Helene|
 |May 25|Lecture|Helene|
 |June 2|Presentations|Michelle, Adam|
-|June 11|Presentations|Tisha, Fatimeh|
+|June 11|Presentations|Tisha, Fatima|
 |June 16|Presentations|Chris, Gaea|
 |June 18|Presentations|Nina, Vivian|
 |June 25|Presentations|Valery|
